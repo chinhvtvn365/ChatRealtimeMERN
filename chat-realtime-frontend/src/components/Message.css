@@ -1,0 +1,6 @@
+.message-send{
+    height: 74vh;
+    overflow-y: scroll;
+    border: 1px solid lightgrey;
+    margin-bottom: 15px;
+}

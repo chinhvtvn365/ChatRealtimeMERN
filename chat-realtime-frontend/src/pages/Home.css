@@ -1,0 +1,15 @@
+.home{
+    margin: 0 !important;
+}
+.home-bg-img{
+    background-image: url(https://res.cloudinary.com/chinhvu/image/upload/v1655112250/4380947_yhxwnt.jpg);
+    height: 87vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+.home-mess-icon{
+    margin-left: 10px;
+    display: inline-block;
+}

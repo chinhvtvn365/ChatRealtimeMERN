@@ -1,0 +1,22 @@
+.signin-bg-img{
+    background-image: url(https://recmiennam.com/wp-content/uploads/2020/05/hinh-nen-vu-tru-4k-9-scaled.jpg);
+    min-height: 100vh;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+.signin-form{
+    position: absolute;
+    background-color: rgba(0,0,0,0.2);
+    height: 100%;
+    width: 100%;
+    mix-blend-mode: normal;
+}
+form{
+    background-color: white;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+    padding: 15px 15px 15px 15px;
+    border-radius: 5px;
+}
